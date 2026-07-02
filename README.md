@@ -210,21 +210,13 @@ http://127.0.0.1:5000
 
 # 📸 Application Preview
 
-> *(Add screenshots here after deployment)*
+### Home Interface
 
-### Home Page
-
-```
-Insert Screenshot
-```
+> Screenshot coming soon.
 
 ### Prediction Result
 
-```
-Insert Screenshot
-```
-
----
+> Screenshot coming soon.
 
 # 💡 Future Improvements
 
